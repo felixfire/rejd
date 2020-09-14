@@ -81,6 +81,6 @@ Or you can use pre-commit to check and fix any issues: `pre-commit run --all`
 
 ## License
 
-Apache License 2.0 (See [LICENSE](https://github.com/rejd-tools/rejd-python/blob/master/LICENSE>))
+Apache License 2.0 (See [LICENSE](https://github.com/rejd-tools/rejd-python/blob/master/LICENSE/))
 
 Copyright 2020, Vadim Sharay

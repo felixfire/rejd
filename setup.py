@@ -42,7 +42,7 @@ setup(
     keywords="transform reformat representation rejd",
     author="Vadim Sharay",
     author_email="vadimsharay@gmail.com",
-    python_requires="~=3.5",
+    python_requires=">=3.5",
     packages=["rejd"],
     install_requires=REQUIREMENTS,
     extras_require={"dev": DEV_REQUIREMENTS},
